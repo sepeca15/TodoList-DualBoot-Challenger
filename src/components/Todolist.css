@@ -29,3 +29,13 @@ button {
   cursor: pointer;
   margin-right: 5px;
 }
+
+.cabeceraDetalles {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.negrita {
+  font-weight: bold;
+}
